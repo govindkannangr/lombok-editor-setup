@@ -12,7 +12,7 @@ Lombok installation is required for STS before we can create / import api extend
   b. **Maven Path :** ~/.m2/repository/org/projectlombok/version.x
 ### 2. Shutdown Editor
 ### 3. Open Command Prompt / Shell in the path where lombok-x.x.x.jar is placed
-### 4. Execute command: java -jar **~lombok jar name**.jar
+### 4. Execute command: java -jar lombok-x.x.x.jar
 ### 5. Choose the desired editor from the installer ui to install the lombok api
 ### 6. Start eclipse and import code
 ### 7. Happy Coding ..)
