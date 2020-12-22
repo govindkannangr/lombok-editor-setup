@@ -25,8 +25,3 @@ Lombok installation is required for STS before we can create / import api extend
 Version | Description
 ------------ | -------------
 1.0 | Initial Commit
-
-
-<style type="text/css" rel="stylesheet">
-* { color: blue; }
-</style>
