@@ -8,6 +8,7 @@ Lombok installation is required for STS before we can create / import api extend
 ## Steps
 ### 1. Download lombok-x.x.x.jar, you may have it already in your gradle / mave cache. 
   a. **Gradle Path :** ~/.gradle/caches/modules-x/files-x.x/org.projectlombok/lombok/x.x.x/version.x
+  
   b. **Maven Path :** ~/.m2/repository/org/projectlombok/version.x
 ### 2. Shutdown Editor
 ### 3. Open Command Prompt / Shell in the path where lombok-x.x.x.jar is placed
